@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoEditor</string>
+
+    <string name="take_picture_from_camera">From Camera</string>
+    <string name="take_picture_from_gallery">From Gallery</string>
+
+    <string name="edit_picture">Edit Picture</string>
+
+</resources>
